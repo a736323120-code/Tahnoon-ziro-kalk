@@ -1,0 +1,6 @@
+{
+  "name": "طحنون للتطوير",
+  "description": "تطبيق متكامل لتثبيت وإدارة أدوات الأمن السيبراني واختبار الاختراق - Zero Click Arsenal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
